@@ -2,178 +2,1907 @@
   "objectives": [
     {
       "text": {
-        "fr": "Banshee",
-        "en": "Banshee"
+        "fr": "Entité: Banshee",
+        "en": "Ghost: Banshee"
       },
       "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Banshee"
     },
     {
       "text": {
-        "fr": "Dayan",
-        "en": "Dayan"
+        "fr": "Entité: Dayan",
+        "en": "Ghost: Dayan"
       },
       "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Dayan"
     },
     {
       "text": {
-        "fr": "Deogen",
-        "en": "Deogen"
+        "fr": "Entité: Deogen",
+        "en": "Ghost: Deogen"
       },
       "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Deogen"
     },
     {
       "text": {
-        "fr": "Démon",
-        "en": "Demon"
+        "fr": "Entité: Démon",
+        "en": "Ghost: Demon"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Demon"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Démon"
     },
     {
       "text": {
-        "fr": "Gallu",
-        "en": "Gallu"
+        "fr": "Entité: Gallu",
+        "en": "Ghost: Gallu"
       },
       "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Gallu"
     },
     {
       "text": {
-        "fr": "Goryo",
-        "en": "Goryo"
+        "fr": "Entité: Goryo",
+        "en": "Ghost: Goryo"
       },
       "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Goryo"
     },
     {
       "text": {
-        "fr": "Prendre 3 preuves différentes",
-        "en": "Get 3 different evidences"
+        "fr": "Entité: Hantu",
+        "en": "Ghost: Hantu"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Hantu"
     },
     {
       "text": {
-        "fr": "Allumer la lampe UV",
-        "en": "Turn on UV light"
+        "fr": "Entité: Djinn",
+        "en": "Ghost: Djinn"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Djinn"
     },
     {
       "text": {
-        "fr": "Subir une attaque fantôme",
-        "en": "Experience a ghost attack"
+        "fr": "Entité: Cauchemar",
+        "en": "Ghost: Cauchemar"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Cauchemar"
     },
     {
       "text": {
-        "fr": "Faire un rond dans la pièce avec la caméra",
-        "en": "Make a circle in the room with camera"
+        "fr": "Entité: Moroï",
+        "en": "Ghost: Moroï"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Moroï"
     },
     {
       "text": {
-        "fr": "Ouvrir toutes les portes",
-        "en": "Open all doors"
+        "fr": "Entité: Myling",
+        "en": "Ghost: Myling"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Myling"
     },
     {
       "text": {
-        "fr": "Utiliser le spirit box",
-        "en": "Use the spirit box"
+        "fr": "Entité: Obake",
+        "en": "Ghost: Obake"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Obake"
     },
     {
       "text": {
-        "fr": "Identifier le type de fantôme",
-        "en": "Identify the ghost type"
+        "fr": "Entité: Obambo",
+        "en": "Ghost: Obambo"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Obambo"
     },
     {
       "text": {
-        "fr": "Ne pas utiliser d'objets",
-        "en": "Don't use any items"
+        "fr": "Entité: Oni",
+        "en": "Ghost: Oni"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Oni"
     },
     {
       "text": {
-        "fr": "Fermer toutes les fenêtres",
-        "en": "Close all windows"
+        "fr": "Entité: Onryo",
+        "en": "Ghost: Onryo"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Onryo"
     },
     {
       "text": {
-        "fr": "Prendre une photo avec flash",
-        "en": "Take a photo with flash"
+        "fr": "Entité: Fantôme",
+        "en": "Ghost: Phantom"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Fantôme"
     },
     {
       "text": {
-        "fr": "Manger une pizza dans la maison",
-        "en": "Eat a pizza in the house"
+        "fr": "Entité: Poltergeist",
+        "en": "Ghost: Poltergeist"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Poltergeist"
     },
     {
       "text": {
-        "fr": "Courir jusqu'au sous-sol",
-        "en": "Run to the basement"
+        "fr": "Entité: Raiju",
+        "en": "Ghost: Raiju"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Raiju"
     },
     {
       "text": {
-        "fr": "Ignorer tous les objectifs",
-        "en": "Ignore all objectives"
+        "fr": "Entité: Revenant",
+        "en": "Ghost: Revenant"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Revenant"
     },
     {
       "text": {
-        "fr": "Allumer toutes les lumières",
-        "en": "Turn on all lights"
+        "fr": "Entité: Ombre",
+        "en": "Ghost: Shade"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Ombre"
     },
     {
       "text": {
-        "fr": "Rester en vie 10 minutes",
-        "en": "Stay alive 10 minutes"
+        "fr": "Entité: Esprit",
+        "en": "Ghost: Spirit"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Esprit"
     },
     {
       "text": {
-        "fr": "Entrer dans le grenier",
-        "en": "Enter the attic"
+        "fr": "Entité: Thayé",
+        "en": "Ghost: Thaye"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Thayé"
     },
     {
       "text": {
-        "fr": "Éteindre toutes les lumières",
-        "en": "Turn off all lights"
+        "fr": "Entité: Le Mimic",
+        "en": "Ghost: The Mimic"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Le+Mimic"
     },
     {
       "text": {
-        "fr": "Marquer 3 preuves",
-        "en": "Mark 3 evidences"
+        "fr": "Entité: Les Jumeaux",
+        "en": "Ghost: The Twins"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Les+Jumeaux"
     },
     {
       "text": {
-        "fr": "Faire un selfie avec le fantôme",
-        "en": "Take a selfie with the ghost"
+        "fr": "Entité: Spectre",
+        "en": "Ghost: Wraith"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Spectre"
+    },
+    {
+      "text": {
+        "fr": "Entité: Yokai",
+        "en": "Ghost: Yokai"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Yokai"
+    },
+    {
+      "text": {
+        "fr": "Entité: Yurei",
+        "en": "Ghost: Yurei"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Yurei"
+    },
+    {
+      "text": {
+        "fr": "Os: Colonne vertébrale",
+        "en": "Bone: Spine"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Spine"
+    },
+    {
+      "text": {
+        "fr": "Os: Crâne",
+        "en": "Bone: Skull"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Skull"
+    },
+    {
+      "text": {
+        "fr": "Os: Mâchoire",
+        "en": "Bone: Jaw"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Jaw"
+    },
+    {
+      "text": {
+        "fr": "Os: Omoplate",
+        "en": "Bone: Shoulder Blade"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Shoulder"
+    },
+    {
+      "text": {
+        "fr": "Os: Main",
+        "en": "Bone: Hand"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Hand"
+    },
+    {
+      "text": {
+        "fr": "Os: Humérus",
+        "en": "Bone: Humerus"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Humerus"
+    },
+    {
+      "text": {
+        "fr": "Os: Cubitus/Radius",
+        "en": "Bone: Ulna/Radius"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Arm+Bones"
+    },
+    {
+      "text": {
+        "fr": "Os: Cage thoracique",
+        "en": "Bone: Ribcage"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Ribcage"
+    },
+    {
+      "text": {
+        "fr": "Os: Pied",
+        "en": "Bone: Foot"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Foot"
+    },
+    {
+      "text": {
+        "fr": "Os: Péroné",
+        "en": "Bone: Fibula"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Fibula"
+    },
+    {
+      "text": {
+        "fr": "Os: Fémur",
+        "en": "Bone: Femur"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Femur"
+    },
+    {
+      "text": {
+        "fr": "Os: Pelvis",
+        "en": "Bone: Pelvis"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Pelvis"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Lampe UV",
+        "en": "Complete a contract without a UV Light"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+UV"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans EMF",
+        "en": "Complete a contract without an EMF Reader"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+EMF"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans D.O.T.S.",
+        "en": "Complete a contract without a D.O.T.S. Projector"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+DOTS"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Thermomètre",
+        "en": "Complete a contract without a Thermometer"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Thermo"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Caméra",
+        "en": "Complete a contract without a Video Camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Cam"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Appareil Photo",
+        "en": "Complete a contract without a Photo Camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Photo"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Livre",
+        "en": "Complete a contract without a Ghost Writing Book"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Book"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Spirit Box",
+        "en": "Complete a contract without a Spirit Box"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+SpiritBox"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Sel",
+        "en": "Complete a contract without Salt"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Salt"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Encens",
+        "en": "Complete a contract without Incense"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Incense"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Lumière",
+        "en": "Complete a contract without turning on lights"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Lights"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Crucifix",
+        "en": "Complete a contract without Crucifixes"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Crucifix"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Détecteur de mouvement",
+        "en": "Complete a contract without a Motion Sensor"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Sensor"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Enregistrement de son",
+        "en": "Complete a contract without a Sound Sensor"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Sound+Sensor"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Détecteur de son",
+        "en": "Complete a contract without a Parabolic Microphone"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Parabolic"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Tripod",
+        "en": "Complete a contract without a Tripod"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Tripod"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Caméra/Lampe frontale",
+        "en": "Complete a contract without a Head-Mounted Camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Headgear"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Chasse",
+        "en": "Complete a contract without the ghost hunting"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Hunt"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Preuves",
+        "en": "Complete a contract without identifying any evidence"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Evidence"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans Sprint",
+        "en": "Complete a contract without sprinting"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Sprint"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie avec 1 preuve",
+        "en": "Complete a contract with only 1 piece of evidence"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=1+Evidence"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie 2 preuves",
+        "en": "Complete a contract with only 2 pieces of evidence"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=2+Evidence"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie en sortant qu’une fois du camion",
+        "en": "Complete a contract by leaving the truck only once"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=1+Trip"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie en sortant 2 fois max du camion",
+        "en": "Complete a contract by leaving the truck at most 2 times"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=2+Trips+Max"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie en sortant 3 fois max du camion",
+        "en": "Complete a contract by leaving the truck at most 3 times"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=3+Trips+Max"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie équipement T1",
+        "en": "Complete a contract using only Tier 1 equipment"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Tier+1"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie équipement T2",
+        "en": "Complete a contract using only Tier 2 equipment"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Tier+2"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie équipement T3",
+        "en": "Complete a contract using only Tier 3 equipment"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Tier+3"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie sans équipement",
+        "en": "Complete a contract without bringing any equipment"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Gear"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie briquet seulement",
+        "en": "Complete a contract with only a Lighter"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Lighter+Only"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie caméra seulement",
+        "en": "Complete a contract with only a Photo Camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Camera+Only"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie avec la santé mentale >80%",
+        "en": "Complete a contract with sanity above 80%"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Sanity+>80%"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie avec la santé mentale >60%",
+        "en": "Complete a contract with sanity above 60%"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Sanity+>60%"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie avec la santé mentale >40%",
+        "en": "Complete a contract with sanity above 40%"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Sanity+>40%"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie avec la santé mentale >20%",
+        "en": "Complete a contract with sanity above 20%"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Sanity+>20%"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie avec la santé mentale >13%",
+        "en": "Complete a contract with sanity above 13%"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Sanity+>13%"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie avec la santé mentale à 0%",
+        "en": "Complete a contract with sanity at 0%"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Sanity+0%"
+    },
+    {
+      "text": {
+        "fr": "Identifier le fantôme sans mourir",
+        "en": "Identify the ghost without dying"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Survive"
+    },
+    {
+      "text": {
+        "fr": "Identifier le fantôme sans mourir (si multi tout le monde doit survivre)",
+        "en": "Identify the ghost without anyone dying (in multiplayer)"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=All+Survive"
+    },
+    {
+      "text": {
+        "fr": "Mort",
+        "en": "Die during a contract"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Death"
+    },
+    {
+      "text": {
+        "fr": "L’entité a plus de 50 ans",
+        "en": "The ghost is over 50 years old"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Age+>50"
+    },
+    {
+      "text": {
+        "fr": "L’entité a moins de 50 ans",
+        "en": "The ghost is under 50 years old"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Age+<50"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie en moins de 10 minutes",
+        "en": "Complete a contract in less than 10 minutes"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=<10+Mins"
+    },
+    {
+      "text": {
+        "fr": "Faire une partie en moins de 5 minutes",
+        "en": "Complete a contract in less than 5 minutes"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=<5+Mins"
+    },
+    {
+      "text": {
+        "fr": "1 minute seul avec l’entité",
+        "en": "Spend 1 minute alone in the ghost room"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=1+Min+Alone"
+    },
+    {
+      "text": {
+        "fr": "2 minutes seul avec l’entité",
+        "en": "Spend 2 minutes alone in the ghost room"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=2+Mins+Alone"
+    },
+    {
+      "text": {
+        "fr": "3 minutes seul avec l’entité",
+        "en": "Spend 3 minutes alone in the ghost room"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=3+Mins+Alone"
+    },
+    {
+      "text": {
+        "fr": "4 minutes seul avec l’entité",
+        "en": "Spend 4 minutes alone in the ghost room"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=4+Mins+Alone"
+    },
+    {
+      "text": {
+        "fr": "5 minutes seul avec l’entité",
+        "en": "Spend 5 minutes alone in the ghost room"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=5+Mins+Alone"
+    },
+    {
+      "text": {
+        "fr": "Loop l’entité et survivre",
+        "en": "Successfully loop the ghost during a hunt and survive"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Loop+Ghost"
+    },
+    {
+      "text": {
+        "fr": "Utiliser un objet maudit juste après l’avoir trouvé",
+        "en": "Use a cursed possession immediately after finding it"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Instant+Curse"
+    },
+    {
+      "text": {
+        "fr": "Finir ses phrases à l’entité par “J’ai pas peur”",
+        "en": "End all your sentences to the ghost with 'I'm not scared'"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=No+Fear"
+    },
+    {
+      "text": {
+        "fr": "Trouver le Miroir",
+        "en": "Find the Haunted Mirror"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Find+Mirror"
+    },
+    {
+      "text": {
+        "fr": "Utiliser le Miroir",
+        "en": "Use the Haunted Mirror"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Use+Mirror"
+    },
+    {
+      "text": {
+        "fr": "Trouver la Boite à musique",
+        "en": "Find the Music Box"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Find+Music+Box"
+    },
+    {
+      "text": {
+        "fr": "Utiliser la Boîte à musique",
+        "en": "Use the Music Box"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Use+Music+Box"
+    },
+    {
+      "text": {
+        "fr": "Trouver la Planche Ouija",
+        "en": "Find the Ouija Board"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Find+Ouija"
+    },
+    {
+      "text": {
+        "fr": "Utiliser la Planche Ouija",
+        "en": "Use the Ouija Board"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Use+Ouija"
+    },
+    {
+      "text": {
+        "fr": "Trouver le Cercle d'invocation",
+        "en": "Find the Summoning Circle"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Find+Circle"
+    },
+    {
+      "text": {
+        "fr": "Utiliser le Cercle d'invocation",
+        "en": "Use the Summoning Circle"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Use+Circle"
+    },
+    {
+      "text": {
+        "fr": "Trouver les Cartes de tarot",
+        "en": "Find the Tarot Cards"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Find+Tarot"
+    },
+    {
+      "text": {
+        "fr": "Tirer la carte La Tour",
+        "en": "Draw The Tower card"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=The+Tower"
+    },
+    {
+      "text": {
+        "fr": "Tirer la carte La roue de la fortune",
+        "en": "Draw The Wheel of Fortune card"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Wheel+Fortune"
+    },
+    {
+      "text": {
+        "fr": "Tirer la carte Le fou",
+        "en": "Draw The Fool card"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=The+Fool"
+    },
+    {
+      "text": {
+        "fr": "Tirer la carte Le Diable",
+        "en": "Draw The Devil card"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=The+Devil"
+    },
+    {
+      "text": {
+        "fr": "Tirer la carte La mort",
+        "en": "Draw The Death card"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=The+Death"
+    },
+    {
+      "text": {
+        "fr": "Tirer la carte l'Hermite",
+        "en": "Draw The Hermit card"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=The+Hermit"
+    },
+    {
+      "text": {
+        "fr": "Tirer la carte Le soleil",
+        "en": "Draw The Sun card"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=The+Sun"
+    },
+    {
+      "text": {
+        "fr": "Tirer la carte La lune",
+        "en": "Draw The Moon card"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=The+Moon"
+    },
+    {
+      "text": {
+        "fr": "Tirer la carte La grande prêtresse",
+        "en": "Draw The High Priestess card"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=High+Priestess"
+    },
+    {
+      "text": {
+        "fr": "Tirer la carte Le pendu",
+        "en": "Draw The Hanged Man card"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Hanged+Man"
+    },
+    {
+      "text": {
+        "fr": "Utiliser toutes les cartes en une fois",
+        "en": "Use all Tarot Cards in a single contract"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=All+Tarot"
+    },
+    {
+      "text": {
+        "fr": "Trouver la Poupée Vaudou",
+        "en": "Find the Voodoo Doll"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Find+Voodoo"
+    },
+    {
+      "text": {
+        "fr": "Utiliser la Poupée Vaudou",
+        "en": "Use the Voodoo Doll"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Use+Voodoo"
+    },
+    {
+      "text": {
+        "fr": "Trouver la Patte de singe",
+        "en": "Find the Monkey Paw"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Find+Paw"
+    },
+    {
+      "text": {
+        "fr": "Utiliser la Patte de singe",
+        "en": "Use the Monkey Paw"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Use+Paw"
+    },
+    {
+      "text": {
+        "fr": "Carte: 6 Tanglewood Drive",
+        "en": "Map: 6 Tanglewood Drive"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Tanglewood"
+    },
+    {
+      "text": {
+        "fr": "Carte: 42 Edgefield Road",
+        "en": "Map: 42 Edgefield Road"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Edgefield"
+    },
+    {
+      "text": {
+        "fr": "Carte: 10 Ridgeview Court",
+        "en": "Map: 10 Ridgeview Court"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Ridgeview"
+    },
+    {
+      "text": {
+        "fr": "Carte: Nell's Diner",
+        "en": "Map: Nell's Diner"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Diner"
+    },
+    {
+      "text": {
+        "fr": "Carte: Grafton Farmhouse",
+        "en": "Map: Grafton Farmhouse"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Grafton"
+    },
+    {
+      "text": {
+        "fr": "Carte: 13 Willow Street",
+        "en": "Map: 13 Willow Street"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Willow"
+    },
+    {
+      "text": {
+        "fr": "Carte: Camp Woodwind",
+        "en": "Map: Camp Woodwind"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Woodwind"
+    },
+    {
+      "text": {
+        "fr": "Carte: Point Hope",
+        "en": "Map: Point Hope"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Point+Hope"
+    },
+    {
+      "text": {
+        "fr": "Carte: Bleasdale Farmhouse",
+        "en": "Map: Bleasdale Farmhouse"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Bleasdale"
+    },
+    {
+      "text": {
+        "fr": "Carte: Sunny Meadows Restricted",
+        "en": "Map: Sunny Meadows Restricted"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Sunny+Restricted"
+    },
+    {
+      "text": {
+        "fr": "Carte: Prison",
+        "en": "Map: Prison"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Prison"
+    },
+    {
+      "text": {
+        "fr": "Carte: Maple Lodge Campsite",
+        "en": "Map: Maple Lodge Campsite"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Maple+Lodge"
+    },
+    {
+      "text": {
+        "fr": "Carte: Brownstone High School",
+        "en": "Map: Brownstone High School"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=High+School"
+    },
+    {
+      "text": {
+        "fr": "Carte: Sunny Meadows",
+        "en": "Map: Sunny Meadows"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Sunny+Meadows"
+    },
+    {
+      "text": {
+        "fr": "Carte: Random",
+        "en": "Map: Random"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Random+Map"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit allumer la TV",
+        "en": "The ghost must turn on a TV"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=TV+On"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit allumer le ventilateur",
+        "en": "The ghost must turn on a fan"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Fan+On"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit faire bouger un Ballon",
+        "en": "The ghost must interact with a balloon"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Balloon"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit faire l'alarme de la voiture",
+        "en": "The ghost must set off a car alarm"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Car+Alarm"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit utiliser tous les crucifix à 100%",
+        "en": "The ghost must burn through all crucifix charges"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=All+Crucifix"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit utiliser 1 crucifix à 100%",
+        "en": "The ghost must completely use up one crucifix"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=1+Crucifix+100%"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit faire vibrer le téléphone",
+        "en": "The ghost must make a phone vibrate"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Phone+Vibe"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit faire de la guitare",
+        "en": "The ghost must play a guitar"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Guitar"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit faire du piano",
+        "en": "The ghost must play a piano"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Piano"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit faire de l’eau sale",
+        "en": "The ghost must dirty water"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Dirty+Water"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit allumer la douche",
+        "en": "The ghost must turn on a shower"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Shower"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit souffler une bougie",
+        "en": "The ghost must blow out a candle"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Blow+Candle"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit faire un EMF 5",
+        "en": "The ghost must produce an EMF Level 5 reading"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=EMF+5"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit parler à la Spirit Box",
+        "en": "The ghost must respond on the Spirit Box"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Spirit+Box+Talk"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit marcher dans le sel",
+        "en": "The ghost must walk through salt"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Salt+Walk"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit allumer un PC",
+        "en": "The ghost must turn on a computer"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PC+On"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit faire bouger un mannequin",
+        "en": "The ghost must move a mannequin"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Mannequin"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit faire bouger le fauteuil à bascule",
+        "en": "The ghost must rock a rocking chair"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Rocking+Chair"
+    },
+    {
+      "text": {
+        "fr": "L'entité doit faire exploser un tas d’objets",
+        "en": "The ghost must cause a large pile of objects to explode"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Pile+Explode"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Banshee",
+        "en": "Take a photo of a Banshee"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Banshee"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Dayan",
+        "en": "Take a photo of a Dayan"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Dayan"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Deogen",
+        "en": "Take a photo of a Deogen"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Deogen"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Démon",
+        "en": "Take a photo of a Demon"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Démon"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Gallu",
+        "en": "Take a photo of a Gallu"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Gallu"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Goryo",
+        "en": "Take a photo of a Goryo"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Goryo"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Hantu",
+        "en": "Take a photo of a Hantu"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Hantu"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Djinn",
+        "en": "Take a photo of a Djinn"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Djinn"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Cauchemar",
+        "en": "Take a photo of a Cauchemar"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Cauchemar"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Moroï",
+        "en": "Take a photo of a Moroï"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Moroï"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Myling",
+        "en": "Take a photo of a Myling"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Myling"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Obake",
+        "en": "Take a photo of an Obake"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Obake"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Obambo",
+        "en": "Take a photo of an Obambo"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Obambo"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Oni",
+        "en": "Take a photo of an Oni"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Oni"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Onryo",
+        "en": "Take a photo of an Onryo"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Onryo"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Fantôme",
+        "en": "Take a photo of a Phantom"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Fantôme"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Poltergeist",
+        "en": "Take a photo of a Poltergeist"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Poltergeist"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Raiju",
+        "en": "Take a photo of a Raiju"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Raiju"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Revenant",
+        "en": "Take a photo of a Revenant"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Revenant"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Ombre",
+        "en": "Take a photo of a Shade"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Ombre"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Esprit",
+        "en": "Take a photo of a Spirit"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Esprit"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Thayé",
+        "en": "Take a photo of a Thaye"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Thayé"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Le Mimic",
+        "en": "Take a photo of The Mimic"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Mimic"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Les Jumeaux",
+        "en": "Take a photo of The Twins"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Twins"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Spectre",
+        "en": "Take a photo of a Wraith"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Spectre"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Yokai",
+        "en": "Take a photo of a Yokai"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Yokai"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Yurei",
+        "en": "Take a photo of a Yurei"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Yurei"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de l'entité",
+        "en": "Take a photo of the ghost"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Ghost"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo d'un joueur mort (Validé instant si solo)",
+        "en": "Take a photo of a dead player (Instant if solo)"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Dead"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Entité en chasse",
+        "en": "Take a photo of the ghost during a hunt"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Hunting"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de Entité translucide",
+        "en": "Take a photo of a translucent ghost"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Translucent"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de l’ombre de l’entité",
+        "en": "Take a photo of the ghost's shadow"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Shadow"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo d'un EMF",
+        "en": "Take a photo of an EMF reader with a reading"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+EMF"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de température glaciale",
+        "en": "Take a photo of freezing temperatures"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Freezing"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo d'écriture",
+        "en": "Take a photo of ghost writing"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Writing"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo d'empreinte",
+        "en": "Take a photo of fingerprints"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Fingerprints"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo d'empreinte de main",
+        "en": "Take a photo of a handprint"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Handprint"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo d'empreinte de pied",
+        "en": "Take a photo of a footprint"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Footprint"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo d'empreinte de l’obake",
+        "en": "Take a photo of an Obake's special fingerprint"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Obake+Print"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo du Crucifix qui brûle",
+        "en": "Take a photo of a burning crucifix"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Crucifix+Burn"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de l'entité dans le D.O.T.S.",
+        "en": "Take a photo of a ghost in D.O.T.S."
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+DOTS"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de l'objet maudit",
+        "en": "Take a photo of a cursed possession"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Cursed"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo du Miroir",
+        "en": "Take a photo of the Haunted Mirror"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Mirror"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de la Boîte à musique",
+        "en": "Take a photo of the Music Box"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Music+Box"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de la Planche Ouija",
+        "en": "Take a photo of the Ouija Board"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Ouija"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo du Cercle d'invocation",
+        "en": "Take a photo of the Summoning Circle"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Circle"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo du set de Cartes de tarot",
+        "en": "Take a photo of the Tarot Cards"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Tarot"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de la Poupée Vaudou",
+        "en": "Take a photo of the Voodoo Doll"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Voodoo"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de la Patte de singe",
+        "en": "Take a photo of the Monkey Paw"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Paw"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo de l’eau sale",
+        "en": "Take a photo of dirty water"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Dirty+Water"
+    },
+    {
+      "text": {
+        "fr": "Faire une photo d’un objet en lévitation",
+        "en": "Take a photo of a floating object"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Floating"
+    },
+    {
+      "text": {
+        "fr": "Empreintes sur la fenêtre",
+        "en": "Fingerprints on a window"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Window+Prints"
+    },
+    {
+      "text": {
+        "fr": "Empreintes sur une porte",
+        "en": "Fingerprints on a door"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Door+Prints"
+    },
+    {
+      "text": {
+        "fr": "Empreintes sur un interrupteur",
+        "en": "Fingerprints on a light switch"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Switch+Prints"
+    },
+    {
+      "text": {
+        "fr": "Empreintes sur un PC",
+        "en": "Fingerprints on a computer"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PC+Prints"
+    },
+    {
+      "text": {
+        "fr": "Capturer un chuchotement",
+        "en": "Capture a whisper on sound equipment"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Whisper"
+    },
+    {
+      "text": {
+        "fr": "Capturer une discussion",
+        "en": "Capture a conversation on sound equipment"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Talk"
+    },
+    {
+      "text": {
+        "fr": "Capturer un gémissement",
+        "en": "Capture a groan on sound equipment"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Groan"
+    },
+    {
+      "text": {
+        "fr": "Capturer un EMF 5",
+        "en": "Capture an EMF Level 5 reading on sound equipment"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+EMF5"
+    },
+    {
+      "text": {
+        "fr": "Capturer un événement paranormal",
+        "en": "Capture a paranormal event on sound equipment"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Event"
+    },
+    {
+      "text": {
+        "fr": "Capturer le son de l'écriture",
+        "en": "Capture the sound of ghost writing"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Writing"
+    },
+    {
+      "text": {
+        "fr": "Capturer une bougie soufflé",
+        "en": "Capture the sound of a candle being blown out"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Candle"
+    },
+    {
+      "text": {
+        "fr": "Capturer l'entité en chasse",
+        "en": "Capture the sound of the ghost hunting"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Hunt"
+    },
+    {
+      "text": {
+        "fr": "Capturer le cri de la banshee",
+        "en": "Capture a Banshee's scream"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Banshee"
+    },
+    {
+      "text": {
+        "fr": "Capturer un Mist",
+        "en": "Capture a ghost mist event"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Mist"
+    },
+    {
+      "text": {
+        "fr": "Capturer la spirit box",
+        "en": "Capture a Spirit Box response"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+SpiritBox"
+    },
+    {
+      "text": {
+        "fr": "Capturer le crucifix qui brûle",
+        "en": "Capture the sound of a crucifix burning"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Crucifix"
+    },
+    {
+      "text": {
+        "fr": "Capturer un rire",
+        "en": "Capture a ghost's laugh"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Laugh"
+    },
+    {
+      "text": {
+        "fr": "Capturer un grognement",
+        "en": "Capture a ghost's growl"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Growl"
+    },
+    {
+      "text": {
+        "fr": "Capturer un jouet possédé",
+        "en": "Capture the sound of a possessed toy"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Toy"
+    },
+    {
+      "text": {
+        "fr": "Capturer la musique distordue",
+        "en": "Capture distorted music"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Music"
+    },
+    {
+      "text": {
+        "fr": "Capturer la boîte à musique",
+        "en": "Capture the Music Box's tune"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Music+Box"
+    },
+    {
+      "text": {
+        "fr": "Capturer la planche de ouija",
+        "en": "Capture Ouija Board interaction sounds"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Capture+Ouija"
+    },
+    {
+      "text": {
+        "fr": "Filmer une porte en mouvement",
+        "en": "Film a door moving on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Door"
+    },
+    {
+      "text": {
+        "fr": "Filmer l’écriture",
+        "en": "Film ghost writing on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Writing"
+    },
+    {
+      "text": {
+        "fr": "Filmer la bougie soufflé",
+        "en": "Film a candle being blown out on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Candle"
+    },
+    {
+      "text": {
+        "fr": "Filmer l’entité",
+        "en": "Film the ghost on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Ghost"
+    },
+    {
+      "text": {
+        "fr": "Filmer l’entité en chasse",
+        "en": "Film the ghost hunting on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Hunt"
+    },
+    {
+      "text": {
+        "fr": "Filmer l’entité translucide",
+        "en": "Film a translucent ghost on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Translucent"
+    },
+    {
+      "text": {
+        "fr": "Filmer un objet lancé",
+        "en": "Film an object being thrown on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Throw"
+    },
+    {
+      "text": {
+        "fr": "Filmer un cadavre de joueur (valide instant si solo)",
+        "en": "Film a dead player's body on camera (Instant if solo)"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Dead"
+    },
+    {
+      "text": {
+        "fr": "Filmer le détecteur de mouvement",
+        "en": "Film a motion sensor detecting something"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Sensor"
+    },
+    {
+      "text": {
+        "fr": "Filmer la planche de ouija",
+        "en": "Film Ouija Board activity on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Ouija"
+    },
+    {
+      "text": {
+        "fr": "Filmer l’entité qui marche dans le sel",
+        "en": "Film the ghost walking through salt on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Salt"
+    },
+    {
+      "text": {
+        "fr": "Filmer les orbes",
+        "en": "Film ghost orbs on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Orbs"
+    },
+    {
+      "text": {
+        "fr": "Filmer le métamorphe (obake)",
+        "en": "Film an Obake shape-shifting on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Obake"
+    },
+    {
+      "text": {
+        "fr": "Filmer un événement paranormal",
+        "en": "Film a paranormal event on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Event"
+    },
+    {
+      "text": {
+        "fr": "Filmer l’entité dans le D.O.T.S.",
+        "en": "Film a ghost in D.O.T.S. on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+DOTS"
+    },
+    {
+      "text": {
+        "fr": "Filmer une interaction avec une peluche",
+        "en": "Film an interaction with a plush toy on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Toy"
+    },
+    {
+      "text": {
+        "fr": "Filmer la lumière rouge",
+        "en": "Film the red light event on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Red+Light"
+    },
+    {
+      "text": {
+        "fr": "Filmer le vacillements des lumières",
+        "en": "Film lights flickering on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Flicker"
+    },
+    {
+      "text": {
+        "fr": "Filmer les lumières qui s'éteignent",
+        "en": "Film lights turning off on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Lights+Off"
+    },
+    {
+      "text": {
+        "fr": "Filmer le Mist de l'entité",
+        "en": "Film a ghost mist event on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Mist"
+    },
+    {
+      "text": {
+        "fr": "Filmer l’eau sale",
+        "en": "Film dirty water on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Dirty+Water"
+    },
+    {
+      "text": {
+        "fr": "Filmer le téléphone qui vibre",
+        "en": "Film a vibrating phone on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Phone"
+    },
+    {
+      "text": {
+        "fr": "Filmer le crucifix qui brûle",
+        "en": "Film a burning crucifix on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Crucifix+Burn"
+    },
+    {
+      "text": {
+        "fr": "Filmer le crucifix de la chapelle",
+        "en": "Film the chapel crucifix on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Chapel"
+    },
+    {
+      "text": {
+        "fr": "Filmer une interaction avec le feu",
+        "en": "Film an interaction with fire on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Fire"
+    },
+    {
+      "text": {
+        "fr": "Filmer une interaction",
+        "en": "Film any ghost interaction on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Interaction"
+    },
+    {
+      "text": {
+        "fr": "Filmer la musique distordue",
+        "en": "Film distorted music playing on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Music"
+    },
+    {
+      "text": {
+        "fr": "Filmer le Fauteuil à bascule",
+        "en": "Film a rocking chair moving on camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Film+Rocking+Chair"
+    },
+    {
+      "text": {
+        "fr": "L’entité a l'apparence d’un enfant",
+        "en": "The ghost has a child's model"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Child+Model"
+    },
+    {
+      "text": {
+        "fr": "L’entité a l'apparence d’une mamie",
+        "en": "The ghost has an old woman's model"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Elder+Model"
+    },
+    {
+      "text": {
+        "fr": "L’entité a l'apparence d’une femme",
+        "en": "The ghost has a woman's model"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Woman+Model"
+    },
+    {
+      "text": {
+        "fr": "L’entité a l'apparence d’un boucher",
+        "en": "The ghost has a butcher's model"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Butcher+Model"
+    },
+    {
+      "text": {
+        "fr": "L’entité a l'apparence d’un nudiste",
+        "en": "The ghost has a nude model"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Nude+Model"
+    },
+    {
+      "text": {
+        "fr": "L’entité est à quatre pattes",
+        "en": "The ghost uses the crawling model"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Crawling"
+    },
+    {
+      "text": {
+        "fr": "L’entité est un métamorphe",
+        "en": "The ghost is a shapeshifter"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Shapeshifter"
+    },
+    {
+      "text": {
+        "fr": "Difficulté: Amateur",
+        "en": "Difficulty: Amateur"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Amateur"
+    },
+    {
+      "text": {
+        "fr": "Difficulté: Intermédiaire",
+        "en": "Difficulty: Intermediate"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Intermediate"
+    },
+    {
+      "text": {
+        "fr": "Difficulté: Professionnel",
+        "en": "Difficulty: Professional"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Professional"
+    },
+    {
+      "text": {
+        "fr": "Difficulté: Cauchemar",
+        "en": "Difficulty: Nightmare"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Nightmare"
+    },
+    {
+      "text": {
+        "fr": "Difficulté: Démence",
+        "en": "Difficulty: Insanity"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Insanity"
+    },
+    {
+      "text": {
+        "fr": "Difficulté: Mode Défi",
+        "en": "Difficulty: Challenge Mode"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Challenge"
+    },
+    {
+      "text": {
+        "fr": "L’entité est dans le garage",
+        "en": "The ghost room is in the garage"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Garage"
+    },
+    {
+      "text": {
+        "fr": "L’entité est dans le grenier",
+        "en": "The ghost room is in the attic"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Attic"
+    },
+    {
+      "text": {
+        "fr": "L’entité est dans la cuisine",
+        "en": "The ghost room is in the kitchen"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Kitchen"
+    },
+    {
+      "text": {
+        "fr": "L’entité est dans une chambre",
+        "en": "The ghost room is in a bedroom"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Bedroom"
+    },
+    {
+      "text": {
+        "fr": "L’entité est dans la salle de bain",
+        "en": "The ghost room is in the bathroom"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Bathroom"
+    },
+    {
+      "text": {
+        "fr": "L’entité est dans l’entrée",
+        "en": "The ghost room is in the entrance/foyer"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Entrance"
+    },
+    {
+      "text": {
+        "fr": "L’entité est dans la chapelle",
+        "en": "The ghost room is in the chapel"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Chapel"
+    },
+    {
+      "text": {
+        "fr": "L’entité est dehors/jardin/terrasse",
+        "en": "The ghost room is outside/in the garden/patio"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Outside"
+    },
+    {
+      "text": {
+        "fr": "L’entité est dans une toile de tente",
+        "en": "The ghost room is in a tent"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Tent"
     }
   ]
 }
