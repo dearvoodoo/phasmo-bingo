@@ -1,0 +1,179 @@
+{
+  "objectives": [
+    {
+      "text": {
+        "fr": "Identifier le fantôme sans mourir",
+        "en": "Identify the ghost without dying"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Finir un contrat sans lampe",
+        "en": "Complete a contract without flashlight"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Prendre une photo de fantôme ★★★",
+        "en": "Take a ★★★ ghost photo"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Mourir en solo",
+        "en": "Die in solo"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Trouver la room sans thermomètre",
+        "en": "Find the room without thermometer"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Capturer un EMF niveau 5",
+        "en": "Capture EMF level 5"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Prendre 3 preuves différentes",
+        "en": "Get 3 different evidences"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Allumer la lampe UV",
+        "en": "Turn on UV light"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Subir une attaque fantôme",
+        "en": "Experience a ghost attack"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Faire un rond dans la pièce avec la caméra",
+        "en": "Make a circle in the room with camera"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Ouvrir toutes les portes",
+        "en": "Open all doors"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Utiliser le spirit box",
+        "en": "Use the spirit box"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Identifier le type de fantôme",
+        "en": "Identify the ghost type"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Ne pas utiliser d'objets",
+        "en": "Don't use any items"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Fermer toutes les fenêtres",
+        "en": "Close all windows"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Prendre une photo avec flash",
+        "en": "Take a photo with flash"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Manger une pizza dans la maison",
+        "en": "Eat a pizza in the house"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Courir jusqu'au sous-sol",
+        "en": "Run to the basement"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Ignorer tous les objectifs",
+        "en": "Ignore all objectives"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Allumer toutes les lumières",
+        "en": "Turn on all lights"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Rester en vie 10 minutes",
+        "en": "Stay alive 10 minutes"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Entrer dans le grenier",
+        "en": "Enter the attic"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Éteindre toutes les lumières",
+        "en": "Turn off all lights"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Marquer 3 preuves",
+        "en": "Mark 3 evidences"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    },
+    {
+      "text": {
+        "fr": "Faire un selfie avec le fantôme",
+        "en": "Take a selfie with the ghost"
+      },
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+    }
+  ]
+}
