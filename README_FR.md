@@ -27,14 +27,14 @@ Il contient tous les objectifs utilisables pour générer un bingo Phasmophobia.
 Chaque objectif respecte une structure simple et cohérente.
 
 Exemple générique :
-
+```json
 {
   "id": "unique_id",
   "label": "Texte affiché au joueur",
   "difficulty": "easy | medium | hard",
   "type": "gameplay | challenge | random"
 }
-
+```
 Respecte toujours le format déjà en place dans le fichier.
 
 ---
@@ -55,13 +55,13 @@ Tu prends le JSON, tu l’exploites comme tu veux.
 ## Utilisation
 
 JavaScript :
-
+```js
 fetch('https://raw.githubusercontent.com/dearvoodoo/phasmo-bingo/main/phasmo-objectives.json')
   .then(res => res.json())
   .then(data => {
     console.log(data);
   });
-
+```
 Backend :
 Compatible avec n’importe quel langage (PHP, Node, Python, etc.)
 via l’URL raw GitHub ou en local.
