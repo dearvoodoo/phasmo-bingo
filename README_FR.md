@@ -1,113 +1,48 @@
-# Phasmo Bingo – Objectives API
+# Phasmo Bingo – API des objectifs
 
-👉 English version available here:
+👉 Version anglaise disponible ici :  
 [Read the README in English](./README.md)
 
 ---
 
-Repo simple et clean :
-une liste d’objectifs pour un Bingo Phasmophobia, au format JSON, pensée pour être facile à utiliser, facile à maintenir et facile à enrichir par la communauté.
+Ce dépôt expose simplement la liste des objectifs utilisée par **mon Bingo Phasmophobia** :
 
-Le but est clair :
-centraliser les objectifs pour éviter que chacun refasse son bingo dans son coin.
+👉 https://the-coven.fr/bingo/
+
+Rien de plus, rien de moins.
+
+J’ai rendu ces données publiques afin que d’autres puissent les réutiliser, plutôt que de recréer leur propre liste d’objectifs depuis zéro.
+
+---
+
+## Ce que c’est
+
+- Un fichier JSON public
+- Contenant tous les objectifs utilisés par mon Bingo Phasmo
+- Maintenu propre, cohérent et fidèle au jeu
+
+Il s’agit de **la source de données exacte** utilisée par le bingo en ligne.
 
 ---
 
 ## Fichier principal
 
-phasmo-objectives.json
+**phasmo-objectives.json**
 
-C’est la source de vérité du projet.
-Il contient tous les objectifs utilisables pour générer un bingo Phasmophobia.
+C’est la seule source de vérité.  
+Si un objectif n’est pas dans ce fichier, il n’est pas utilisé par le bingo.
 
 ---
 
-## Structure du JSON
+## Structure JSON
 
-Chaque objectif respecte une structure simple et cohérente.
+Chaque objectif suit la même structure.
 
-Exemple générique :
 ```json
 {
-  "id": "unique_id",
-  "label": "Texte affiché au joueur",
-  "difficulty": "easy | medium | hard",
-  "type": "gameplay | challenge | random"
+  "text": {
+    "fr": "Faire une photo de Démon",
+    "en": "Take a photo of a Demon"
+  },
+  "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Demon"
 }
-```
-Respecte toujours le format déjà en place dans le fichier.
-
----
-
-## Cas d’usage
-
-Ce fichier peut servir à :
-- Générer un bingo aléatoire
-- Créer un bingo personnalisable
-- Overlay OBS / outil de stream
-- Bot Discord
-- Site web ou application Phasmophobia
-
-Tu prends le JSON, tu l’exploites comme tu veux.
-
----
-
-## Utilisation
-
-JavaScript :
-```js
-fetch('https://raw.githubusercontent.com/dearvoodoo/phasmo-bingo/main/phasmo-objectives.json')
-  .then(res => res.json())
-  .then(data => {
-    console.log(data);
-  });
-```
-Backend :
-Compatible avec n’importe quel langage (PHP, Node, Python, etc.)
-via l’URL raw GitHub ou en local.
-
----
-
-## Ajouter un objectif
-
-Les contributions sont bienvenues.
-
-Règles :
-- Pas de doublon
-- Texte clair et compréhensible
-- Objectif réalisable en jeu
-- Cohérent avec Phasmophobia
-- Respect du format existant
-
-Comment contribuer :
-1. Fork le repo
-2. Ajouter l’objectif dans phasmo-objectives.json
-3. Commit propre
-4. Pull Request
-
----
-
-## Ce repo ne fait PAS
-
-- Pas de génération de bingo
-- Pas d’interface utilisateur
-- Pas de logique de jeu
-- Pas de règles
-
-Ce repo fournit uniquement les données.
-
----
-
-## Licence
-
-Libre d’utilisation.
-Crédit apprécié si utilisé dans un projet public.
-
----
-
-## Disclaimer
-
-Projet non affilié à Kinetic Games.
-Phasmophobia appartient à ses créateurs.
-
-Bon hunt.
