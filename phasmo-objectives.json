@@ -2,45 +2,45 @@
   "objectives": [
     {
       "text": {
-        "fr": "Identifier le fantôme sans mourir",
-        "en": "Identify the ghost without dying"
+        "fr": "Banshee",
+        "en": "Banshee"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Banshee"
     },
     {
       "text": {
-        "fr": "Finir un contrat sans lampe",
-        "en": "Complete a contract without flashlight"
+        "fr": "Dayan",
+        "en": "Dayan"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Dayan"
     },
     {
       "text": {
-        "fr": "Prendre une photo de fantôme ★★★",
-        "en": "Take a ★★★ ghost photo"
+        "fr": "Deogen",
+        "en": "Deogen"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Deogen"
     },
     {
       "text": {
-        "fr": "Mourir en solo",
-        "en": "Die in solo"
+        "fr": "Démon",
+        "en": "Demon"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Demon"
     },
     {
       "text": {
-        "fr": "Trouver la room sans thermomètre",
-        "en": "Find the room without thermometer"
+        "fr": "Gallu",
+        "en": "Gallu"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Gallu"
     },
     {
       "text": {
-        "fr": "Capturer un EMF niveau 5",
-        "en": "Capture EMF level 5"
+        "fr": "Goryo",
+        "en": "Goryo"
       },
-      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=PHASMO"
+      "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Goryo"
     },
     {
       "text": {
