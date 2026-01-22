@@ -1,114 +1,48 @@
 # Phasmo Bingo – Objectives API
 
-👉 Version française disponible ici:
+👉 Version française disponible ici:  
 [Lire le README en français](./README_FR.md)
 
 ---
 
-Simple and clean repository:
-a Phasmophobia Bingo objectives list stored as JSON, designed to be easy to use, easy to maintain, and easy to expand by the community.
+This repository simply exposes the objective list used by **my Phasmophobia Bingo**:
 
-The goal is simple:
-centralize bingo objectives instead of everyone reinventing their own list.
+👉 https://the-coven.fr/bingo/
+
+Nothing more, nothing less.
+
+I made the data public so others can reuse it instead of recreating their own objective lists from scratch.
+
+---
+
+## What this is
+
+- A public JSON file
+- Containing all objectives used by my Phasmo Bingo
+- Kept clean, consistent, and game-accurate
+
+This is the **exact data source** used by the live bingo.
 
 ---
 
 ## Main file
 
-phasmo-objectives.json
+**phasmo-objectives.json**
 
-This is the single source of truth.
-It contains all objectives used to generate a Phasmophobia bingo.
+This is the single source of truth.  
+If it’s not in this file, it’s not used by the bingo.
 
 ---
 
 ## JSON structure
 
-Each objective follows a simple and consistent structure.
+Each objective follows the same structure.
 
-Generic example:
 ```json
 {
-  "id": "unique_id",
-  "label": "Text displayed to the player",
-  "difficulty": "easy | medium | hard",
-  "type": "gameplay | challenge | random"
+  "text": {
+    "fr": "Faire une photo de Démon",
+    "en": "Take a photo of a Demon",
+  }
+  "image": "https://placehold.co/300x300/161616/C0FE04/png?text=Photo+Demon"
 }
-```
-
-Always respect the existing structure in the file.
-
----
-
-## Use cases
-
-This file can be used for:
-- Random bingo generation
-- Custom bingo creation
-- OBS / stream overlays
-- Discord bots
-- Websites or Phasmophobia tools
-
-You take the JSON and do whatever you want with it.
-
----
-
-## Usage
-
-JavaScript:
-```js
-fetch('https://raw.githubusercontent.com/dearvoodoo/phasmo-bingo/main/phasmo-objectives.json')
-  .then(res => res.json())
-  .then(data => {
-    console.log(data);
-  });
-```
-Backend:
-Works with any backend language (PHP, Node, Python, etc.)
-either via the GitHub raw URL or locally.
-
----
-
-## Adding an objective
-
-Contributions are welcome.
-
-Rules:
-- No duplicates
-- Clear and readable text
-- Must be achievable in-game
-- Stay consistent with Phasmophobia
-- Respect the existing format
-
-How to contribute:
-1. Fork the repo
-2. Add the objective to phasmo-objectives.json
-3. Clean commit
-4. Open a Pull Request
-
----
-
-## What this repo does NOT do
-
-- No bingo generation logic
-- No UI
-- No game rules
-- No gameplay systems
-
-This repo only provides data, by design.
-
----
-
-## License
-
-Free to use.
-Credits are appreciated if used in a public project.
-
----
-
-## Disclaimer
-
-This project is not affiliated with Kinetic Games.
-Phasmophobia belongs to its respective owners.
-
-Happy hunting.
